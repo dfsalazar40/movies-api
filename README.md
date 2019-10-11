@@ -1,5 +1,5 @@
 # movies-api
-
+> No se realizo por prioridad a problema de push notifations por peticion de Jose Luis Contreras (PM)  y Luis Rosas (Tech Lead)
 > Consumiento API de películas y aplicando conceptos del día de gremio
 
 ## Build Setup
